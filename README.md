@@ -44,7 +44,7 @@
 
 #### Don't do Bad Things ya Guys :kissing::v:
 
-> You can find open ports on the Internet [here at Shodan](https://www.shodan.io/search?query=android+debug+bridge+product%3A”Android+Debug+Bridge”)
+> You can find open ports on the Internet [here at Website](https://www.hackingcourses.tk”)
 
 # YouTube Videos
 <br>
